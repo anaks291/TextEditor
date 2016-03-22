@@ -1,5 +1,0 @@
-D:\ITVDN\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
-D:\ITVDN\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
-D:\ITVDN\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csprojResolveAssemblyReference.cache
-D:\ITVDN\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
-D:\ITVDN\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb

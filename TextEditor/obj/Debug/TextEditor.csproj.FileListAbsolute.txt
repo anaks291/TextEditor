@@ -1,11 +1,1 @@
 D:\ITVDN\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
-D:\ITVDN\TextEditor\TextEditor\bin\Debug\TextEditor.exe
-D:\ITVDN\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
-D:\ITVDN\TextEditor\TextEditor\bin\Debug\TextEditor.BL.dll
-D:\ITVDN\TextEditor\TextEditor\bin\Debug\TextEditor.BL.pdb
-D:\ITVDN\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
-D:\ITVDN\TextEditor\TextEditor\obj\Debug\TextEditor.MainForm.resources
-D:\ITVDN\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
-D:\ITVDN\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
-D:\ITVDN\TextEditor\TextEditor\obj\Debug\TextEditor.exe
-D:\ITVDN\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
