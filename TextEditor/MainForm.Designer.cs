@@ -81,8 +81,7 @@
             this.butOpenFile.Size = new System.Drawing.Size(88, 27);
             this.butOpenFile.TabIndex = 3;
             this.butOpenFile.Text = "Открыть";
-            this.butOpenFile.UseVisualStyleBackColor = true;
-            this.butOpenFile.Click += new System.EventHandler(this.button2_Click);
+            this.butOpenFile.UseVisualStyleBackColor = true;          
             // 
             // label2
             // 
