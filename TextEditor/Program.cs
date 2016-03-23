@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using TextEditor.BL;
 
 namespace TextEditor
 {
@@ -16,7 +14,14 @@ namespace TextEditor
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+
+            MainForm form = new MainForm();
+            MessgaService service = new MessgaService();
+            FileManager manager = new FileManager();
+
+            MainPresentor presenter = new MainPresentor(form,manager,service);
+
+            Application.Run(form);
         }
     }
 }
