@@ -4,7 +4,16 @@ using System.Text;
 
 namespace TextEditor.BL
 {
-    public class FileManager
+    public interface IFileManager
+    {
+        string GetContent(string filePath);
+        string GetContent(string FilePath, Encoding encoding);
+        void SaveContent(string content, string filePath);
+        void SaveContent(string content, string filePath, Encoding encoding);
+        int GetSimbolCount(string content);
+        bool IsExist(string filePath);
+    }
+    public class FileManager : IFileManager
     {
         /// <summary>
         /// Кодировка по умолчанию Win(1251)
